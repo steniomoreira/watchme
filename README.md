@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Refatoção da aplicação com principais componentes: Sidebar, Header e Content. 
+Refatoração da aplicação tendo como principais componentes: Sidebar, Header e Content. 
 
 - A aplicação possui apenas uma funcionalidade principal que é a listagem de filmes;
 - Na sidebar é possível selecionar qual categoria de filmes deve ser listada;
@@ -48,7 +48,7 @@ Em seguida, você vai ver a mensagem:
 
 Perceba que ele iniciou uma fake API com os recursos /genres e /movies em localhost na porta 3333 a partir das informações do arquivo server.json localizado na raiz do seu projeto. Acessando essas rotas no seu navegador, você consegue ver o retorno das informações já em JSON.
 
-e para rodar aplicação é só executar o comando no terminal:
+E para rodar aplicação é só executar o comando no terminal:
 
 ```bash
 yarn dev
